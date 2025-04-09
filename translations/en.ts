@@ -1,9 +1,9 @@
 export const englishTranslations = {
-  title: "How Trilogi Nusa Putra Changed My Life",
+  title: "How Trilogy Nusa Putra Changed My Life",
   author: "By M. Z. Haikal Hamdani",
 
   navbar: {
-    title: "How Trilogi Nusa Putra Changed My Life",
+    title: "How Trilogy Nusa Putra Changed My Life",
   },
 
   introduction: {
@@ -26,12 +26,12 @@ export const englishTranslations = {
   seekingPath: {
     title: "Rediscovering Meaning in Noble Values",
     p1: "After leaving campus, days passed without any sign of a way out of the tragedy that befell our family. For almost nine months, I was in a phase of self-discovery. In the midst of that darkness, I began to reflect and ask myself: what was my reason for choosing to go to college? What had I gained during my time at Nusa Putra University?",
-    p2: 'In that reflection, my memory turned to the "Noble Values - Nusa Putra University" known as "Trilogi Nusa Putra". I began to review the moral messages contained in these values and realized how far I had strayed from these principles.',
+    p2: 'In that reflection, my memory turned to the "Noble Values - Nusa Putra University" known as "Trilogy Nusa Putra". I began to review the moral messages contained in these values and realized how far I had strayed from these principles.',
     p3: "This awareness brought me to a deep reflection: all this time I had distanced myself from God, lacked devotion to my parents, and neglected to maintain relationships with siblings and the surrounding community.",
   },
 
   trilogiValues: {
-    title: "Trilogi Nusa Putra",
+    title: "Trilogy Nusa Putra",
     learnMore: "Learn More",
     amorDeus: {
       subtitle: "Love of God",
@@ -55,9 +55,11 @@ export const englishTranslations = {
     p1: "One of the biggest changes in my life was how I began to see my mother's struggle in a different way. Previously, I often ignored how heavy the burden she carried every day. Now, I witnessed firsthand how she worked tirelessly, even when her body was asking for rest.",
     p2: "Seeing this struggle, I began to routinely help with my mother's work—something I rarely did before. I realized that being devoted to parents is not just an abstract concept in Amor Parentium, but a real action that must be done every day.",
     img1Alt: "Mother exhausted after working all day",
-    img1Caption: "My mother exhausted after working all day, a moment that made me realize her sacrifice.",
+    img1Caption:
+      "My mother exhausted after working all day, a moment that made me realize her sacrifice.",
     img2Alt: "Mother's workplace atmosphere",
-    img2Caption: "My mother's workplace that silently witnesses her struggle to earn a living for the family.",
+    img2Caption:
+      "My mother's workplace that silently witnesses her struggle to earn a living for the family.",
   },
 
   freelanceWork: {
@@ -66,7 +68,7 @@ export const englishTranslations = {
     p2: "This job might sound simple, but it provided me with additional income that was very meaningful during difficult times. Each incoming order, each satisfied client, became proof that I could still provide value to others even in a difficult situation.",
     p3: "For three months, from July to September 2024, I pursued this job wholeheartedly. Alhamdulillah, thanks to hard work and prayer, slowly but surely blessings began to flow back. The family's financial condition gradually improved.",
     p4: "With full gratitude and pride, in September 2024, I finally decided to return to continue my education at Nusa Putra University—this time with a new major choice, Information Systems.",
-    p5: "The decision to return to the same campus was not easy, considering the bitter memories I had experienced. However, the noble values of Trilogi Nusa Putra had been deeply embedded, making me realize that the education I received there was very valuable. This was the beginning of a new chapter in my life.",
+    p5: "The decision to return to the same campus was not easy, considering the bitter memories I had experienced. However, the noble values of Trilogy Nusa Putra had been deeply embedded, making me realize that the education I received there was very valuable. This was the beginning of a new chapter in my life.",
     imgAlt: "My activity as an online game jockey",
     imgCaption:
       "Screenshot of my activity as an online game jockey that helped restore my family's financial condition.",
@@ -75,7 +77,7 @@ export const englishTranslations = {
   transformation: {
     title: "Revival and Transformation",
     p1: "During my break from college, I also developed soft skills in Japanese language by attending a Japanese language course. This was one of my steps to continue building myself after dark times.",
-    p2: "Alhamdulillah, praise God, the application of the noble values of Trilogi Nusa Putra brought significant changes in my life. I began to draw closer to God, love and care more for my parents, and actively socialize in the community.",
+    p2: "Alhamdulillah, praise God, the application of the noble values of Trilogy Nusa Putra brought significant changes in my life. I began to draw closer to God, love and care more for my parents, and actively socialize in the community.",
     p3: "Now, as an Information Systems student, I am starting a new journey with a more mature perspective. Life experience has taught me that noble values are not just theory, but a foundation that must be applied in everyday life.",
     p4: "This story may be simple, but I hope it can inspire readers to reflect on values that may have long been neglected. As the saying goes, take what is good and leave what is bad. May my journey be a mirror for anyone who is looking for a way out of difficult times in their life.",
     imgCaption:
@@ -88,7 +90,8 @@ export const englishTranslations = {
     img2Alt: "Mother's workplace atmosphere",
     img3Alt: "Nusa Putra University Logo",
     img4Alt: "My activity as an online game jockey",
-    img5Alt: "M. Z. Haikal Hamdani, Information Systems student at Nusa Putra University",
+    img5Alt:
+      "M. Z. Haikal Hamdani, Information Systems student at Nusa Putra University",
     lightboxAlt: "Enlarged image",
   },
 
@@ -102,4 +105,4 @@ export const englishTranslations = {
     universityWebsite: "University Website",
     nobleValues: "Noble Values",
   },
-}
+};
