@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-gray-900;
+}
+
+.prose h2 {
+  @apply text-2xl font-bold text-maroon-900 mb-4;
+}
+
+.prose h3 {
+  @apply text-xl font-bold text-maroon-800 mb-3;
+}
+
+.prose p {
+  @apply mb-4 leading-relaxed;
+}
+
+.prose a {
+  @apply text-maroon-700 hover:text-maroon-900 underline transition-colors duration-300;
+}
+
+.prose ul {
+  @apply list-disc pl-5 mb-4;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+/* Add smooth transitions for all interactive elements */
+a,
+button,
+input,
+select,
+textarea {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+/* Improve image transitions */
+img {
+  @apply transition-all duration-300;
+}
+
+/* Add responsive font sizes */
+@media (max-width: 640px) {
+  h1 {
+    @apply text-3xl;
+  }
+  h2 {
+    @apply text-2xl;
+  }
+  h3 {
+    @apply text-xl;
+  }
+  p {
+    @apply text-base;
+  }
+}
+
+/* Add smooth scrolling for anchor links */
+html {
+  scroll-padding-top: 80px; /* Adjust based on navbar height */
+}
+
+/* Add focus styles for accessibility */
+:focus-visible {
+  @apply outline-maroon-600 outline-2 outline-offset-2;
+}
